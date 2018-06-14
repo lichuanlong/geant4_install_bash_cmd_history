@@ -8,6 +8,7 @@ sudo apt install build-essential synaptic cmake cmake-curses-gui qt5-default lib
 mkdir geant4
 cd geant4/
 # unpack tarball here
+tar -zxvf geant4.10.04.p01.tar.gz
 
 mkdir geant4.10.04.p01-build
 cd geant4.10.04.p01-build/
