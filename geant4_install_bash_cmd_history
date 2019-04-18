@@ -3,7 +3,7 @@
 cd
 sudo apt update 
 sudo apt upgrade
-sudo apt install build-essential synaptic cmake cmake-curses-gui qt5-default libxmu-dev libexpat1-dev
+sudo apt install build-essential cmake cmake-curses-gui qt5-default libxmu-dev libexpat1-dev
 
 mkdir geant4
 cd geant4/
