@@ -17,7 +17,6 @@ ccmake ../geant4.10.04.p01
   "e"
   multithreading ON
   qt ON
-  opengl x11 ON
   install data ON
   "c"
   "c"
