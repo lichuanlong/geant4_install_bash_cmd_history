@@ -5,6 +5,9 @@ sudo apt update
 sudo apt upgrade
 sudo apt install build-essential cmake cmake-curses-gui qt5-default libxmu-dev libexpat1-dev
 
+# for gdml
+sudo apt install libxerces-c-dev
+
 mkdir geant4
 cd geant4/
 # unpack tarball here
