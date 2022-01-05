@@ -21,6 +21,7 @@ ccmake ../geant4.10.04.p01
   multithreading ON
   qt ON
   install data ON
+  gdml ON
   "c"
   "c"
   "g"
